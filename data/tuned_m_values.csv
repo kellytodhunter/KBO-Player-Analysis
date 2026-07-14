@@ -1,0 +1,13 @@
+group,stat,best_m
+hitter,BB_pct,1
+hitter,K_pct,1
+hitter,HR_pct,1
+hitter,ISO,1
+hitter,wOBA,1
+hitter,OBP,1
+hitter,SLG,1
+pitcher,K_pct,1
+pitcher,BB_pct,1
+pitcher,HR_per9,1
+pitcher,ERA,1
+pitcher,FIP,1

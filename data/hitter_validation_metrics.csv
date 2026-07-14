@@ -1,0 +1,16 @@
+stat,model,n,MAE,RMSE,r
+BB_pct,Marcel Projection,153,0.0157,0.0207,0.5672
+BB_pct,Prior Year Only,132,0.0171,0.0218,0.6126
+BB_pct,League Average,153,0.0195,0.025,-0.0256
+K_pct,Marcel Projection,153,0.0212,0.0266,0.8573
+K_pct,Prior Year Only,132,0.0218,0.0267,0.8641
+K_pct,League Average,153,0.0412,0.0519,-0.0486
+HR_pct,Marcel Projection,153,0.0084,0.0108,0.7611
+HR_pct,Prior Year Only,132,0.0095,0.013,0.6982
+HR_pct,League Average,153,0.0144,0.017,-0.0638
+ISO,Marcel Projection,153,0.0301,0.0398,0.7367
+ISO,Prior Year Only,132,0.0353,0.047,0.6768
+ISO,League Average,153,0.0504,0.0603,-0.0593
+wOBA,Marcel Projection,153,0.0221,0.0288,0.5604
+wOBA,Prior Year Only,132,0.0249,0.0322,0.5383
+wOBA,League Average,153,0.0275,0.0343,-0.0101

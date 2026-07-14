@@ -1,0 +1,17 @@
+# Node
+node_modules/
+package-lock.json
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# System
+.DS_Store
+
+# Raw scraped HTML (large, not version-controlled)
+data/STATIZ*
+
+# Claude settings
+.claude/
